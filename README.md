@@ -17,7 +17,7 @@ Implementations for Distributed Transactions][weak-consistency-generalized-theor
 ][transaction-isolation-postgres] - Nile blog
 - :notebook: [Understanding Weak Isolation Is a Serious Problem][understanding-weak-isolation] - Peter Bailis' blog
 - :book: [Chapter 6: Weak Isolation and Distribution][chapter6-weak-isolation] - Readings in Database Systems book
-- :notebook: [Strict Serializability][strict-serializable] - jepsen.io
+- :notebook: [Consistency Models][consistency-models] - jepsen.io
 - :computer: [transaction isolation levels testing tool][hermitage-test]
 
 
@@ -29,4 +29,4 @@ Implementations for Distributed Transactions][weak-consistency-generalized-theor
 [transaction-isolation-postgres]: https://www.thenile.dev/blog/transaction-isolation-postgres
 [understanding-weak-isolation]: http://www.bailis.org/blog/understanding-weak-isolation-is-a-serious-problem/
 [chapter6-weak-isolation]: http://www.redbook.io/ch6-isolation.html
-[strict-serializable]: https://jepsen.io/consistency/models/strict-serializable
+[consistency-models]: https://jepsen.io/consistency
