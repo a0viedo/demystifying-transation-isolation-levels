@@ -18,6 +18,8 @@ Implementations for Distributed Transactions][weak-consistency-generalized-theor
 - :notebook: [Understanding Weak Isolation Is a Serious Problem][understanding-weak-isolation] - Peter Bailis' blog
 - :book: [Chapter 6: Weak Isolation and Distribution][chapter6-weak-isolation] - Readings in Database Systems book
 - :notebook: [Consistency Models][consistency-models] - jepsen.io
+- :page_facing_up: [Consistency in Non-Transactional
+Distributed Storage Systems][consistency-no-sql] - Viotti and Vukolic
 - :computer: [transaction isolation levels testing tool][hermitage-test]
 
 
@@ -30,3 +32,4 @@ Implementations for Distributed Transactions][weak-consistency-generalized-theor
 [understanding-weak-isolation]: http://www.bailis.org/blog/understanding-weak-isolation-is-a-serious-problem/
 [chapter6-weak-isolation]: http://www.redbook.io/ch6-isolation.html
 [consistency-models]: https://jepsen.io/consistency
+[consistency-no-sql]: https://arxiv.org/pdf/1512.00168.pdf
